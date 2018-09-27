@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Sam Johnson, Horrible Website builder, Launches Site"
+title: "Sam Johnson, Horrible Website Builder, Launches Site"
 date: 2014-04-30
 ---
 
