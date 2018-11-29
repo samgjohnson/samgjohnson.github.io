@@ -43,10 +43,10 @@ p {
     color: #333;
 }
 ul li{
-    margin: 10px auto 20px;
+    margin-bottom:10px auto 10px;
     font-size: 1em;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
-    line-height: 1.1em;
+    line-height: 1.4em;
     color: #333;
 }
 footer {
