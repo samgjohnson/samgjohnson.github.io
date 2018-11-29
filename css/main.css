@@ -37,13 +37,19 @@ h4 {
 }
 }
 h5 {
-    font-size: 1.2em;
+    font-size: 1.35em;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
 }
 p {
     font-size: 1em;
+    font-family:'Helvetica', 'Arial', 'Sans-Serif';
     line-height: 1.4em;
     color: #333;
+}
+ul {
+    margin: 10px auto 20px;
+    font-size: 1em;
+    font-family:'Helvetica', 'Arial', 'Sans-Serif';
 }
 footer {
     border-top: 1px solid #d5d5d5;
@@ -51,8 +57,8 @@ footer {
 }
 
 ul.posts {
-    margin: 20px auto 40px;
-    font-size: 1.5em;
+    margin: 10px auto 40px;
+    font-size: 1em;
 }
 
 ul.posts li {
