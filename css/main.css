@@ -74,11 +74,3 @@ ul.posts li {
   flex: 33.33%;
   padding: 5px;
 }
-figure {
-    border: thin #c0c0c0 solid;
-    display: flex;
-    flex-flow: auto;
-    padding: 5px;
-    max-width: auto;
-    margin: auto;
-}
