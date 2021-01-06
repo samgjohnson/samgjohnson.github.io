@@ -1,7 +1,7 @@
 body {
     margin: 60px auto;
     width: 70%;
-    background-color: #152a38
+    background-color: #3b3a30
 }
 nav ul, footer ul {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
@@ -15,7 +15,7 @@ nav ul li, footer ul li {
 }
 a {
     text-decoration: none;
-    color: #556e53;
+    color: #c0ded9;
 }
 a:hover {
     text-decoration: underline;
@@ -23,38 +23,38 @@ a:hover {
 h1 {
     font-size: 2.5em;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
-    color: #d1d4c9
+    color: #eaece5
 }
 h2 {
     font-size: 2em;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
-    color: #d1d4c9
+    color: #eaece5
 }
 h3 {
     font-size: 1.5em;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
-    color: #d1d4c9
+    color: #eaece5
 }
 h4 {
     font-size: 1.25em;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
-    color: #d1d4c9
+    color: #eaece5
 }
 p {
     font-size: 1em;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
     line-height: 1.4em;
-    color: #556e53;
+    color: #eaece5;
 }
 ul li{
     margin-bottom:10px auto 10px;
     font-size: 1em;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
     line-height: 1.4em;
-    color: #556e53;
+    color: #eaece5;
 }
 footer {
-    border-top: 1px solid #29435c;
+    border-top: 1px solid #b2c2bf;
     font-size: .8em;
 }
 
