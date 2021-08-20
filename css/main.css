@@ -77,6 +77,7 @@ ul.posts li {
 img {
   width: 100%;
   height: auto;
+  Padding: 10px,10px,10px,10px; //padding positions
 }
 figure {
   display: block;
